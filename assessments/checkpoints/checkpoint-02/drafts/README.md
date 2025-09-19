@@ -14,6 +14,6 @@ INSTRUÇÕES DA ENTREGA:
 - Adicione um arquivo README.md com as instruções da entrega e informações detalhadas do dataset.
 - Link para download do conjunto de dados:
 - [Solar Radiation Prediction](https://www.kaggle.com/datasets/dronio/SolarEnergy)
-- Wind Turbine Scada Dataset
+- [Wind Turbine Scada Dataset](https://www.kaggle.com/datasets/berkerisen/wind-turbine-scada-dataset)
 - Desenvolva um notebook Python com as resoluções das tarefas conforme os enunciados.
 - Desenvolva os workflows no Orange Data Mining.
